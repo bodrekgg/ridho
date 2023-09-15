@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../phpMyAdmin-5.2.1-all-languages/phpMyAdmin-5.2.1-all-languages/themes/bootstrap/css"
+		},
+		{
+			"path": "../../phpMyAdmin-5.2.1-all-languages/phpMyAdmin-5.2.1-all-languages/themes/bootstrap/img"
+		},
+		{
+			"path": "../../phpMyAdmin-5.2.1-all-languages/phpMyAdmin-5.2.1-all-languages/themes/bootstrap/jquery"
+		},
+		{
+			"path": "../../phpMyAdmin-5.2.1-all-languages/phpMyAdmin-5.2.1-all-languages/themes/bootstrap/scss"
+		}
+	]
+}
